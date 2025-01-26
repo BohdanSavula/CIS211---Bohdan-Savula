@@ -1,0 +1,38 @@
+7. 
+Agile is a flexible and flexible way of managing projects that began with the Agile Manifesto in 2001. It is about adapting, collaborating closely with people, and delivering results one step at a time rather than all at once. Agile is primarily used in software development, but its principles, such as “responding to change rather than following a plan” and “collaborating with the customer rather than negotiating a contract,” can work for almost any project.
+Research shows that Agile leads to better results than traditional methods such as Waterfall. For example, the PMI Pulse of the Profession report found that organizations using Agile successfully complete 75% of their projects, compared to 56% for others. Agile methods such as Scrum break projects into short, focused sprints, making it easier to stay on track and understand the steps better, less confusion, and easier to adjust when things change.
+In my experience, the idea of ​​working in small steps and getting feedback along the way really works. I've used this approach a lot in my life, never really thinking about what the term was. But it helps keep things clear and avoid big mistakes. I think Agile's focus on teamwork and flexibility makes it a great choice for today's fast-paced project environments.
+
+References:
+Project Management in Information Technology, Ninth Edition (Chapter 2)
+Agile Alliance - agilealliance.org
+PMI. Pulse of the Profession Report
+
+8.
+Scrum and Kanban Overview
+After watching a few videos about Scrum and Kanban, such as Axosoft, I learned how these two Agile methods help teams get work done more efficiently. Scrum breaks projects down more into short chunks of time called sprints, which usually last a couple of weeks, about 2-4 weeks. It has many established roles, such as a product owner who prioritizes tasks, a scrum master who monitors how the team is working and makes sure the team stays on track, and the team itself, who does the bulk of the work. There are also daily meetings and check-ins called standups to stay focused and concentrated, and at the end of each sprint, the team reviews their work and reviews what they have accomplished.
+Kanban is a little different from the previous candidate. It focuses on visualizing the workflow using a board with columns such as “To Do,” “In Progress,” and “Done.” Tasks move around the board as the team works on them, making it easy to see what's stuck or slowing things down. Unlike Scrum, Kanban doesn't have a time limit, so it's more flexible.
+I was wondering if it was possible to combine the two approaches, because I thought Balance would be a good version of both. After some digging, I found out that many teams use something called Scrumban, which combines the best of both. For example, they might plan work in sprints like Scrum, but use a Kanban board to visually track tasks.
+
+References:
+Axosoft - "Scrum in 10 Minutes" (YouTube)
+Axosoft - "What is Kanban?" (YouTube)
+Agile Alliance - agilealliance.org
+
+9.
+The Opening and Closing case study in Chapter 2 tells the story of Tom Walters and his attempt to introduce tablets to his college. Although Tom was excited about the idea, the project did not go as planned. Most of the faculty opposed the idea, saying that the tablets added to their workload and did not fit with the college’s focus on the areas they wanted, namely the liberal arts. Without sufficient support or planning, the project was shut down. This case study shows how important it is to get people involved and plan well when starting a new project.
+Considering the four frames of organizations—structural, personnel, political, and symbolic—helps explain why Tom’s project failed and the NFL’s tablet implementation succeeded:
+1. Structural Frame
+The NFL worked with Microsoft to create a clear plan and provide all teams with the same technology. This made the process very smooth and organized. However, there was little collaboration at Tom’s college, and the IT department planned much of the project on its own, which caused problems later.
+2. The Human Frame
+The NFL trained coaches and players, making sure they knew how to use the tablets and were comfortable with the new system. At the college, the teachers were not prepared or trained, and many felt frustrated and overwhelmed. I know even from my own experience in the Ukraine that old-school teachers do not like new technology. So the lack of support led to resistance.
+3. The Political Frame
+The NFL had strong support from its leadership and a strong partnership with Microsoft. This minimized resistance and kept everyone on the same page. Tom, on the other hand, did not have much support from senior administrators and faced resistance from the faculty, which prevented the project from gaining momentum.
+4. The Symbolic Frame
+For the NFL, adopting tablets was a perfect fit for its image as a cutting-edge, innovative organization. For the college, the idea of ​​mandatory tablets didn’t fit with its culture or identity as a liberal arts institution, making it difficult for people to understand the value of the project.
+
+The main reasons for Tom’s project being cancelled were lack of planning, poor communication with stakeholders, and not fitting in with the college’s culture. On the other hand, the NFL succeeded because of strong leadership, good preparation, careful planning, and alignment with its goals and values.
+
+References
+NFL Operations – Sideline of the Future
+BizTech Magazine – Tablets in the NFL: How Technology Has Changed the Game One Year Later
